@@ -25,3 +25,15 @@ Queries:
     CASE creates different outputs.
 
     https://www.codecademy.com/learn/learn-sql/modules/learn-sql-queries/cheatsheet
+
+Aggregate Functions:
+
+    COUNT(): count the number of rows
+    SUM(): the sum of the values in a column
+    MAX()/MIN(): the largest/smallest value
+    AVG(): the average of the values in a column
+    ROUND(): round the values in the column
+    
+    GROUP BY is a clause used with aggregate functions to combine data from one or more columns.
+    HAVING limit the results of a query based on an aggregate property.
+
